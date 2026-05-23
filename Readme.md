@@ -36,7 +36,7 @@ Imagina la escena: tienes once años y tu profesor de matemáticas decide "hacer
 └── Readme.md              # Documentación del proyecto
 
 ## 📸 Evidencia de Pruebas Exitosas
-![Pruebas Vitest](./img/evidencia.png)
+![Pruebas Vitest](./test.png)
 
 ## 👨‍💻 Autora
 
