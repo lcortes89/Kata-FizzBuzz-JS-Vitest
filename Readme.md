@@ -34,7 +34,7 @@ Imagina la escena: tienes once años y tu profesor de matemáticas decide "hacer
 │   └── fizzbuzz.test.js   # Batería de 5 escenarios automatizados
 ├── package.json           # Configuración y scripts del proyecto
 └── Readme.md              # Documentación del proyecto
-
+```
 ## 📸 Evidencia de Pruebas Exitosas
 ![Pruebas Vitest](./test.png)
 
